@@ -3854,3 +3854,190 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.21-18.33.18:116][313]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/initialShadingGroupBD3D64284194F86D10822AAFD008B122.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/initialShadingGroup.uasset'
 [2019.05.21-18.33.18:122][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/Graphics001_Mat" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Graphics001_Mat.uasset" SILENT=true
 [2019.05.21-18.33.18:131][313]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Graphics001_Mat248538CC42B5D5E35B2B9FA99642A82B.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Graphics001_Mat.uasset'
+[2019.05.21-18.37.40:914][855]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_TestF6A0FC3E4C15397653B5CFBE1F054479.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test.umap'
+[2019.05.21-18.37.40:945][855]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test_BuiltDat4858E76A494C9EDBE6F7AFB4F27EE00C.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test_BuiltData.uasset'
+[2019.05.21-18.37.41:723][888]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test71E853F34321671AB767DA82EB795C75.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test.umap'
+[2019.05.21-18.37.41:758][888]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test_BuiltDat854AF8184BC138909E7E18BDFF3CB0CC.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test_BuiltData.uasset'
+[2019.05.21-18.39.12:322][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.21-18.39.13:403][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.21-18.44.18:630][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.44.24:942][ 44]LogAssetEditorManager: Opening Asset editor for Material /Game/WB_Materials/initialShadingGroup.initialShadingGroup
+[2019.05.21-18.44.24:944][ 44]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2019.05.21-18.44.25:005][ 44]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2019.05.21-18.44.25:036][ 44]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.21-18.44.25:036][ 44]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.21-18.44.25:036][ 44]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.21-18.44.25:036][ 44]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.21-18.44.25:049][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.21-18.44.25:433][ 74]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.21-18.44.25:486][ 80]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.21-18.44.25:492][ 81]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.21-18.44.25:501][ 82]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.21-18.44.25:587][ 92]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.21-18.44.25:648][ 99]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.21-18.44.25:665][101]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.21-18.44.25:680][103]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.21-18.44.25:758][112]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.21-18.44.25:941][130]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.21-18.44.26:083][146]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.21-18.44.26:144][153]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.21-18.44.26:161][155]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.21-18.44.26:315][173]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.21-18.44.26:361][178]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.21-18.44.26:583][203]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.21-18.44.26:627][208]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.21-18.44.26:651][211]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.21-18.44.26:736][221]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.21-18.44.27:028][252]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.05.21-18.44.27:028][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.05.21-18.44.27:028][252]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.05.21-18.44.27:028][252]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.21-18.44.27:028][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.21-18.44.27:028][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.21-18.44.41:912][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.44.41:957][697]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.21-18.44.43:068][771]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.21-18.44.43:090][771]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (WoodBlock)
+[2019.05.21-18.44.44:614][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.44.44:845][881]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/WB_Materials/WoodBlock.WoodBlock
+[2019.05.21-18.44.53:471][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.45.56:930][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.47.41:551][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.47.41:589][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WoodBlock_Material_Test' took 0.022
+[2019.05.21-18.47.41:590][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_Materials/WoodBlock] ([1] browsable assets)...
+[2019.05.21-18.47.41:608][674]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WB_Materials/WoodBlock.WoodBlock]
+[2019.05.21-18.47.41:608][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Materials/WoodBlock]
+[2019.05.21-18.47.41:626][674]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Auto6F8EF9B124AAEAC52BB6F0FA29ABC51EA.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Autosaves/Game/WB_Materials/WoodBlock_Auto6.uasset'
+[2019.05.21-18.47.41:627][674]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.05.21-18.49.16:311][733]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.21-18.50.13:282][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.50.15:415][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.50.45:567][268]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.21-18.50.54:769][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MI_WoodBlock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset" SILENT=true
+[2019.05.21-18.50.54:793][358]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_WoodBlock_MXS, compiling. 
+[2019.05.21-18.50.55:104][358]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.21-18.50.55:105][358]TextureStreamingBuild: Display: Compiling optional shaders took 0.316 seconds.
+[2019.05.21-18.50.55:152][358]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MI_WoodBlock_MXS84AE60F44B4AAF0A73556F9A82B64027.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset'
+[2019.05.21-18.51.03:357][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.51.03:627][ 74]LogActorFactory: Actor Factory created WoodBlock
+[2019.05.21-18.51.05:323][191]LogActorFactory: Actor Factory created WoodBlock
+[2019.05.21-18.51.15:840][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.51.28:515][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.51.28:702][794]LogActorFactory: Actor Factory created WoodBlock
+[2019.05.21-18.51.31:465][988]LogActorFactory: Actor Factory created WoodBlock
+[2019.05.21-18.51.39:898][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.51.50:052][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.51.53:566][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock3)
+[2019.05.21-18.52.00:507][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.52.10:478][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock3)
+[2019.05.21-18.52.13:397][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.52.21:087][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock3)
+[2019.05.21-18.52.38:747][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.52.38:862][489]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test88AF2BB245BBDC21D0CC94BDCE7DE3F9.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test.umap'
+[2019.05.21-18.52.38:896][489]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test_BuiltDat7DDA0DDF43BCDEB750C593B01C25B060.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test_BuiltData.uasset'
+[2019.05.21-18.52.40:420][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.21-18.52.51:514][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.52.53:598][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.52.54:666][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.53.27:138][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.53.27:163][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MI_WoodBlock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset" SILENT=true
+[2019.05.21-18.53.27:189][699]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_WoodBlock_MXS, compiling. 
+[2019.05.21-18.53.27:511][699]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.21-18.53.27:512][699]TextureStreamingBuild: Display: Compiling optional shaders took 0.327 seconds.
+[2019.05.21-18.53.27:548][699]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MI_WoodBlock_MXSEDE7355647508D6BD7B433B1861DCC40.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset'
+[2019.05.21-18.53.40:946][101]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.21-18.53.52:724][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.53.52:835][814]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test8A389CD24183D3DD48ED3C8C271EAA6A.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test.umap'
+[2019.05.21-18.53.52:864][814]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test_BuiltDatDD1380964BE8B9263E6E599D09A8A06D.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test_BuiltData.uasset'
+[2019.05.21-18.54.14:344][483]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Graphics0018546A5F147F2BA84224FF0A298409894.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Minor_Materials/Graphics001.uasset'
+[2019.05.21-18.54.14:472][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MM_Woodblock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset" SILENT=true
+[2019.05.21-18.54.14:484][483]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MM_Woodblock_MXS1819D2C8418CC7E27D97DD81CB51CF89.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset'
+[2019.05.21-18.54.14:489][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/Graphics001_Mat" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Graphics001_Mat.uasset" SILENT=true
+[2019.05.21-18.54.14:505][483]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Graphics001_MatBC12FEE4489805A4B8B1C69C2FF23947.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Graphics001_Mat.uasset'
+[2019.05.21-18.54.14:544][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MI_WoodBlock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset" SILENT=true
+[2019.05.21-18.54.14:568][483]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_WoodBlock_MXS, compiling. 
+[2019.05.21-18.54.14:891][483]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.21-18.54.14:892][483]TextureStreamingBuild: Display: Compiling optional shaders took 0.329 seconds.
+[2019.05.21-18.54.14:934][483]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MI_WoodBlock_MXS4442749D4FF8CDAA87FF5E93CAA204D6.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset'
+[2019.05.21-18.54.19:132][874]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Graphics001_MatF4EEE8924DA0137DC1C9CCB50ED39933.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Minor_Materials/Graphics001_Mat.uasset'
+[2019.05.21-18.54.30:143][427]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Wood002_Color1A145A0F4DC602EEE164D18A8C385674.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Minor_Materials/Wood002_Color.uasset'
+[2019.05.21-18.54.30:290][427]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/initialShadingGroupC690F40B46DBE912479BBF8164F8F021.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/initialShadingGroup.uasset'
+[2019.05.21-18.54.30:295][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MM_Woodblock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset" SILENT=true
+[2019.05.21-18.54.30:313][427]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MM_Woodblock_MXS9E0E07EA48EB618202527790FA83627D.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset'
+[2019.05.21-18.54.30:316][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MI_WoodBlock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset" SILENT=true
+[2019.05.21-18.54.30:328][427]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MI_WoodBlock_MXSC7C7118E4E8EA3C93C227DBDE8995ADD.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset'
+[2019.05.21-18.54.33:847][713]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/Wood002_Normal7E6479B74360F26622876CB6AAF7A362.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/Minor_Materials/Wood002_Normal.uasset'
+[2019.05.21-18.54.33:975][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MM_Woodblock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset" SILENT=true
+[2019.05.21-18.54.33:984][713]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MM_Woodblock_MXS3380491E4234FBE2BB2DB2A335CCA2FD.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset'
+[2019.05.21-18.54.33:988][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MI_WoodBlock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset" SILENT=true
+[2019.05.21-18.54.34:000][713]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MI_WoodBlock_MXS5DC6BA684E0718A3C08A389B525D3070.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset'
+[2019.05.21-18.54.54:857][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.54.59:128][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock2)
+[2019.05.21-18.55.14:535][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock)
+[2019.05.21-18.55.21:334][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.21-18.55.32:103][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.55.35:849][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WoodBlock2)
+[2019.05.21-18.55.36:693][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.55.38:544][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.55.38:937][948]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/WB_Materials/WoodBlock.WoodBlock
+[2019.05.21-18.56.04:416][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-18.56.10:438][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.56.10:442][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MI_WoodBlock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset" SILENT=true
+[2019.05.21-18.56.10:463][546]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MI_WoodBlock_MXS3EFF4BB648F6ABC3ED2B97A283BCD410.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MI_WoodBlock_MXS.uasset'
+[2019.05.21-18.56.14:110][964]LogMaterialEditor: Saving and Compiling material MM_Woodblock_MXS
+[2019.05.21-18.56.14:429][964]LogMaterial: Display: Missing cached shader map for material MM_Woodblock_MXS, compiling. 
+[2019.05.21-18.56.14:468][964]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.21-18.56.14:468][964]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.21-18.56.14:468][964]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.21-18.56.14:468][964]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.21-18.56.14:476][964]LogMaterial: Display: Missing cached shader map for material MM_Woodblock_MXS, compiling. 
+[2019.05.21-18.56.14:492][964]LogMaterial: Display: Missing cached shader map for material MM_Woodblock_MXS, compiling. 
+[2019.05.21-18.56.14:532][964]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MM_Woodblock_MXS, compiling. 
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.21-18.56.15:977][964]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.21-18.56.15:980][964]TextureStreamingBuild: Display: Compiling optional shaders took 1.455 seconds.
+[2019.05.21-18.56.18:149][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/MM_Woodblock_MXS" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset" SILENT=true
+[2019.05.21-18.56.18:169][964]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/MM_Woodblock_MXS70F6F21440572217C1E16298D4EC1DDA.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/MM_Woodblock_MXS.uasset'
+[2019.05.21-18.56.25:080][717]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.21-18.56.26:507][805]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.21-18.57.53:445][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.57.56:361][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.57.56:373][334]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlockD7BD97F64544680370E55CB7DC942E0D.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
+[2019.05.21-18.57.56:629][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.57.56:636][349]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock715245BE46FCB85ED4D0BC84CB16CB41.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
+[2019.05.21-18.57.56:763][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.57.56:771][356]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlockD52CA1824591294640A0A3944B8A01E2.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
+[2019.05.21-18.57.56:884][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.57.56:896][362]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock0DB6B6A34BB59E16CC8EC5B9F5AF8B4D.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
+[2019.05.21-18.57.56:994][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.57.57:003][367]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock009E3CB24B41FA11232774A0E1B695D8.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
+[2019.05.21-18.57.57:099][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.57.57:107][372]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock5AAD245243E54E37D5DCD3AF1B376100.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
+[2019.05.21-18.58.00:219][623]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test870173AC4CA436C41B6EC7B85FC59AE1.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test.umap'
+[2019.05.21-18.58.00:234][623]LogFileHelpers: Saving map 'WoodBlock_Material_Test' took 0.116
+[2019.05.21-18.59.29:039][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.59.30:767][328]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.21-18.59.32:177][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-18.59.32:291][411]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test8E0B1D6F447BCE77930ECE9E7223103A.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test.umap'
+[2019.05.21-18.59.32:325][411]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock_Material_Test_BuiltDat7A5CB87F427024E721379CA2189E3F67.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WoodBlock_Material_Test_BuiltData.uasset'
+[2019.05.21-18.59.32:905][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Materials/WoodBlock" FILE="../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset" SILENT=true
+[2019.05.21-18.59.32:914][444]LogSavePackage: Moving '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Saved/WoodBlock049EE14640CBB64FE32C8DB35E753160.tmp' to '../../../../../../Users/u0783704/Documents/GitHub/Summer/WB_Material/Content/WB_Materials/WoodBlock.uasset'
