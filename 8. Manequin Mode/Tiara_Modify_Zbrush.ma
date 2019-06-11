@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff09 scene
 //Name: Tiara_Modify_Zbrush.ma
-//Last modified: Tue, Jun 11, 2019 02:14:37 PM
+//Last modified: Tue, Jun 11, 2019 02:15:11 PM
 //Codeset: 1252
 requires maya "2018ff09";
 requires "mtoa" "3.1.2.1";
@@ -17,8 +17,8 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "3D63B263-4EBD-8C8C-78BE-01BAE397438F";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -8.3460471774090284 182.60647809189734 95.424474702603803 ;
-	setAttr ".r" -type "double3" 1788.5060567647267 10795.340578453164 9.9721897917293712e-17 ;
+	setAttr ".t" -type "double3" -9.8626634360258727 174.18244677388148 96.643841993484102 ;
+	setAttr ".r" -type "double3" 1793.306056764651 10794.540578449765 0 ;
 	setAttr ".rp" -type "double3" 1.7763568394002505e-15 -3.5527136788005009e-15 0 ;
 	setAttr ".rpt" -type "double3" 3.3292809030288332e-15 -4.4124983180069642e-14 6.2760008371816891e-14 ;
 createNode camera -s -n "perspShape" -p "persp";
